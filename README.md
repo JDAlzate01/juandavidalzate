@@ -1,5 +1,7 @@
 <div id="" align="center">
- <h1>JUAN DAVID ALZATE</h1>
+<img src="https://github.com/JDAlzate01/juandavidalzate/blob/main/assets/images/logo.png" width="50%"/>
+
+	
 </div>
 <h1 align="center">Hi 👋, I'm Juan David Alzate</h1>
 <h3 align="center">I'm a Email Developer</h3>
